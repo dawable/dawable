@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dawable
-- 👀 I’m interested in coding, learning how to contribute to open source code, dc comics, and animals
-- 🌱 I’m currently learning how to use github
+- 👀 I’m interested in coding, analytics, and learning how to contribute to open source code
+- 🌱 I’m always learning how to use github
 
 
 <!---
